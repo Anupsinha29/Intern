@@ -1,0 +1,95 @@
+.group-child2 {
+  top: 2px;
+  border-radius: var(--br-35xl);
+  background-color: var(--color-white);
+  height: 1500px;
+}
+.group-child2,
+.group-child3,
+.terms-condition1 {
+  position: absolute;
+  left: 0;
+  width: 1708px;
+}
+.terms-condition1 {
+  top: 340px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 157px;
+}
+.group-child3 {
+  top: 0;
+  border-radius: var(--br-35xl);
+  background-color: var(--color-midnightblue);
+  height: 322px;
+}
+.get-upto-20,
+.image-19-icon1 {
+  position: absolute;
+  top: 79px;
+  height: 165px;
+}
+.image-19-icon1 {
+  left: 65px;
+  border-radius: var(--br-81xl);
+  width: 306px;
+  object-fit: cover;
+}
+.get-upto-20 {
+  left: 443px;
+  display: flex;
+  color: var(--color-white);
+  text-align: left;
+  align-items: center;
+  width: 901px;
+}
+.x-circle-icon2 {
+  position: absolute;
+  top: 89px;
+  left: 1474px;
+  width: 144px;
+  height: 144px;
+  overflow: hidden;
+}
+.offer-is-valid1 {
+  margin-bottom: 0;
+}
+.blank-line9 {
+  margin: 0;
+}
+.valid-once-per-qwik-money-post {
+  margin: 0;
+  padding-left: var(--padding-32xl);
+}
+.offer-is-valid-container1 {
+  position: absolute;
+  top: 562px;
+  left: 65px;
+  font-size: var(--font-inherit);
+  font-family: var(--font-inherit);
+  text-align: left;
+  display: inline-block;
+  width: 1593px;
+  height: 863px;
+}
+.group-div,
+.terms1 {
+  width: 1708px;
+  height: 1502px;
+}
+.group-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.terms1 {
+  position: relative;
+  max-width: 90%;
+  max-height: 90%;
+  overflow: auto;
+  text-align: center;
+  font-size: var(--font-size-35xl);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}

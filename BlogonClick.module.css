@@ -1,0 +1,80 @@
+.groupChild,
+.groupItem {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  border-radius: var(--br-35xl);
+  background-color: var(--color-white);
+  width: 1708px;
+  height: 989px;
+}
+.groupItem {
+  top: 0;
+  background-color: var(--color-midnightblue);
+  height: 322px;
+}
+.aWinWinScenario {
+  position: absolute;
+  top: 79px;
+  left: 133px;
+  display: flex;
+  align-items: center;
+  width: 1311px;
+  height: 165px;
+}
+.xCircleIcon {
+  position: absolute;
+  top: 89px;
+  left: 1474px;
+  width: 144px;
+  height: 144px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.rectangleParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1708px;
+  height: 991px;
+}
+.inAPoll {
+  margin-bottom: 0;
+}
+.inAPollConductedByTheBus {
+  margin: 0;
+  padding-left: var(--padding-32xl);
+}
+.blankLine {
+  margin: 0;
+}
+.inAPollContainer {
+  position: absolute;
+  top: 422px;
+  left: 65px;
+  font-size: var(--font-inherit);
+  font-family: var(--font-inherit);
+  color: var(--color-black);
+  display: inline-block;
+  width: 1593px;
+  height: 863px;
+}
+.groupParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1708px;
+  height: 1285px;
+}
+.blogonClick {
+  position: relative;
+  width: 1708px;
+  height: 991px;
+  max-width: 100%;
+  max-height: 100%;
+  overflow: auto;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}

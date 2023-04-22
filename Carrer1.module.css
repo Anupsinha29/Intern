@@ -1,0 +1,559 @@
+.component1Child,
+.downloadApp {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+.component1Child {
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-7xl) var(--br-7xl) 0 var(--br-7xl);
+  border: 3px solid var(--color-midnightblue);
+  box-sizing: border-box;
+}
+.downloadApp {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.component1 {
+  position: absolute;
+  top: 28px;
+  left: 1451px;
+  width: 247px;
+  height: 64px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-midnightblue);
+}
+.transparent1Icon {
+  position: absolute;
+  top: 0;
+  left: 27px;
+  width: 216px;
+  height: 216px;
+  object-fit: cover;
+}
+.footerChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslategray);
+  width: 1728px;
+  height: 857px;
+}
+.home {
+  position: absolute;
+  top: 167px;
+  left: 888px;
+  display: flex;
+  align-items: center;
+  width: 122px;
+  height: 73px;
+}
+.privacyPolicy {
+  top: 157px;
+  left: 1254px;
+  width: 242px;
+  cursor: pointer;
+}
+.driverTerms,
+.followUs,
+.privacyPolicy,
+.safety {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  height: 73px;
+}
+.safety {
+  top: 373px;
+  left: 888px;
+  width: 142px;
+}
+.driverTerms,
+.followUs {
+  left: 1254px;
+}
+.driverTerms {
+  top: 363px;
+  width: 272px;
+  cursor: pointer;
+}
+.followUs {
+  top: 483px;
+  font-size: var(--font-size-13xl);
+  width: 252px;
+  opacity: 0.6;
+}
+.aboutUs {
+  top: 270px;
+  left: 888px;
+  width: 182px;
+}
+.aboutUs,
+.blog,
+.carrer1,
+.customerTerms,
+.postpaidcard {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  height: 73px;
+}
+.customerTerms {
+  top: 260px;
+  left: 1254px;
+  width: 302px;
+  cursor: pointer;
+}
+.blog,
+.carrer1,
+.postpaidcard {
+  left: 888px;
+  width: 292px;
+}
+.postpaidcard {
+  top: 476px;
+  cursor: pointer;
+}
+.blog,
+.carrer1 {
+  top: 579px;
+}
+.blog {
+  top: 682px;
+}
+.customerApp,
+.driverApp {
+  position: absolute;
+  top: 157px;
+  left: 102px;
+  opacity: 0.5;
+}
+.driverApp {
+  left: 492px;
+}
+.image1Icon,
+.image2Icon {
+  position: absolute;
+  top: 261.5px;
+  left: 65.5px;
+  width: 306px;
+  height: 90px;
+  object-fit: cover;
+}
+.image2Icon {
+  top: 262px;
+  left: 433.5px;
+}
+.facebookLogoIcon,
+.linkedinInLogoIcon {
+  position: absolute;
+  top: 602px;
+  left: 1357px;
+  width: 48px;
+  height: 48px;
+  overflow: hidden;
+}
+.linkedinInLogoIcon {
+  left: 1455px;
+}
+.image3Icon {
+  position: absolute;
+  top: 391px;
+  left: 66px;
+  width: 311px;
+  height: 96px;
+  object-fit: cover;
+}
+.instagramLogoIcon,
+.twitterLogoIcon {
+  position: absolute;
+  top: 602px;
+  left: 1191px;
+  width: 48px;
+  height: 48px;
+  overflow: hidden;
+}
+.instagramLogoIcon {
+  top: 602.55px;
+  left: 1279.65px;
+}
+.beAPart,
+.footer {
+  position: absolute;
+  left: 0;
+  width: 1728px;
+}
+.footer {
+  top: 3049px;
+  height: 857px;
+  text-align: left;
+  font-size: var(--font-size-9xl);
+  color: var(--color-white);
+}
+.beAPart {
+  top: 261px;
+  font-size: var(--font-size-66xl);
+  font-weight: 900;
+  display: inline-block;
+  height: 99px;
+}
+.supertoroidIridescentIcon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: -50.14%;
+  bottom: 0;
+  left: 50.14%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.supertoroid1 {
+  position: absolute;
+  top: 310px;
+  left: -146px;
+  width: 291.2px;
+  height: 257.6px;
+}
+.roundcubeBlueGlossyIcon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.cube2,
+.weEnvisionA {
+  position: absolute;
+  top: 463px;
+  left: 1586px;
+  width: 384px;
+  height: 413px;
+}
+.weEnvisionA {
+  top: 435px;
+  left: 282px;
+  display: inline-block;
+  width: 1163px;
+  height: 264px;
+}
+.carrerChild,
+.joinNow {
+  position: absolute;
+  top: 805px;
+  height: 128px;
+}
+.carrerChild {
+  left: 443px;
+  border-radius: var(--br-12xl);
+  background-color: var(--color-slateblue-100);
+  width: 449px;
+}
+.joinNow {
+  left: 497px;
+  font-size: var(--font-size-23xl);
+  display: flex;
+  color: var(--color-white);
+  align-items: center;
+  justify-content: center;
+  width: 246px;
+  cursor: pointer;
+}
+.arrowUpRightIcon {
+  position: absolute;
+  top: 840px;
+  left: 790px;
+  width: 62px;
+  height: 62px;
+  overflow: hidden;
+}
+.b {
+  top: 841px;
+  left: 932px;
+  font-size: var(--font-size-33xl);
+  justify-content: center;
+  width: 29px;
+  height: 85px;
+}
+.b,
+.joinOurTeam,
+.learnMore,
+.weValueTalent {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.learnMore {
+  top: 828px;
+  left: 982px;
+  font-size: var(--font-size-23xl);
+  text-transform: capitalize;
+  text-align: left;
+  width: 303px;
+  height: 85px;
+}
+.joinOurTeam,
+.weValueTalent {
+  top: 1004px;
+  left: 0;
+  font-size: var(--font-size-45xl);
+  justify-content: center;
+  width: 1728px;
+  height: 101px;
+}
+.weValueTalent {
+  top: 2104px;
+}
+.carrerInner,
+.carrerItem {
+  position: absolute;
+  top: 981px;
+  left: -1.72px;
+  border-top: 3px dashed var(--color-black);
+  box-sizing: border-box;
+  width: 1731.44px;
+  height: 3px;
+}
+.carrerInner {
+  top: 2061px;
+}
+.amazingDreamNeed {
+  position: absolute;
+  top: 1105px;
+  left: 310px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1108px;
+  height: 215px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 1335px;
+  left: 66px;
+  border-radius: var(--br-13xl);
+  background-color: var(--color-darkslateblue-100);
+  width: 1586px;
+  height: 652px;
+}
+.joinAsA,
+.sectorsWeMainly {
+  position: absolute;
+  color: var(--color-white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sectorsWeMainly {
+  top: 1407px;
+  left: 66px;
+  font-size: var(--font-size-45xl);
+  width: 1586px;
+  height: 103px;
+}
+.joinAsA {
+  top: 1617px;
+  left: 160px;
+  width: 583px;
+  height: 108px;
+}
+.joinUsAs {
+  margin: 0;
+}
+.joinUsAsContainer1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.joinUsAsContainer {
+  position: absolute;
+  top: 1619px;
+  left: 927px;
+  color: var(--color-white);
+  display: flex;
+  align-items: center;
+  width: 653px;
+  height: 108px;
+}
+.carrerChild1,
+.carrerChild2 {
+  position: absolute;
+  top: 1795px;
+  left: 201px;
+  border-radius: var(--br-4xl);
+  background-color: var(--color-white);
+  width: 467px;
+  height: 121px;
+  cursor: pointer;
+}
+.carrerChild2 {
+  left: 1001px;
+}
+.applyNow,
+.applyNow1 {
+  position: absolute;
+  top: 1794px;
+  left: 276px;
+  font-size: var(--font-size-17xl);
+  display: flex;
+  text-align: left;
+  align-items: center;
+  width: 394px;
+  height: 122px;
+  cursor: pointer;
+}
+.applyNow1 {
+  left: 1076px;
+}
+.arrowUpRightIcon1,
+.arrowUpRightIcon2 {
+  position: absolute;
+  top: 1825px;
+  left: 548px;
+  width: 62px;
+  height: 62px;
+  overflow: hidden;
+}
+.arrowUpRightIcon2 {
+  left: 1348px;
+}
+.b1,
+.lineDiv {
+  position: absolute;
+}
+.lineDiv {
+  top: 1583px;
+  left: 858px;
+  border-right: 2px solid var(--color-white);
+  box-sizing: border-box;
+  width: 2px;
+  height: 344px;
+}
+.b1 {
+  top: 111px;
+  left: 92px;
+  font-size: var(--font-size-sm);
+  display: inline-block;
+  font-family: var(--font-hind);
+  color: var(--color-darkslateblue-200);
+  text-align: left;
+  width: 127px;
+  height: 24px;
+}
+.carrerChild3,
+.carrerChild4,
+.carrerChild5 {
+  position: absolute;
+  top: 2327px;
+  left: 239px;
+  border-radius: var(--br-4xl);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 350px;
+  height: 388px;
+}
+.carrerChild4,
+.carrerChild5 {
+  left: 689px;
+}
+.carrerChild5 {
+  left: 1139px;
+}
+.collaborativeWorkEnvironment,
+.learnFromLeaders,
+.meritocracyProfessionalism {
+  position: absolute;
+  top: 2608px;
+  left: 239px;
+  font-size: var(--font-size-6xl);
+  display: inline-block;
+  width: 350px;
+  height: 53px;
+}
+.collaborativeWorkEnvironment,
+.meritocracyProfessionalism {
+  top: 2598px;
+  left: 689px;
+}
+.collaborativeWorkEnvironment {
+  left: 1139px;
+}
+.aboutUs1,
+.home1 {
+  position: relative;
+  display: inline-block;
+  height: 42px;
+  flex-shrink: 0;
+}
+.home1 {
+  width: 95px;
+  cursor: pointer;
+}
+.aboutUs1 {
+  width: 160px;
+}
+.safety1 {
+  width: 104px;
+  cursor: pointer;
+}
+.blog1,
+.carrer2,
+.contact,
+.postpaidcard1,
+.safety1 {
+  position: relative;
+  display: inline-block;
+  height: 42px;
+  flex-shrink: 0;
+}
+.postpaidcard1 {
+  width: 205px;
+  cursor: pointer;
+}
+.blog1,
+.carrer2,
+.contact {
+  width: 105px;
+}
+.blog1,
+.contact {
+  width: 71px;
+}
+.contact {
+  width: 120px;
+  cursor: pointer;
+}
+.homeParent {
+  position: absolute;
+  top: 44px;
+  left: 267px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-26xl);
+  text-align: left;
+  font-size: var(--font-size-11xl);
+}
+.carrer {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 3889px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}

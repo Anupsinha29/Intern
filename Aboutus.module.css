@@ -1,0 +1,595 @@
+.aboutusChild {
+  position: absolute;
+  top: 2081px;
+  left: 0;
+  width: 475.5px;
+  height: 656px;
+  opacity: 0.2;
+}
+.component1Child,
+.downloadApp {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+.component1Child {
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-7xl) var(--br-7xl) 0 var(--br-7xl);
+  border: 3px solid var(--color-midnightblue);
+  box-sizing: border-box;
+}
+.downloadApp {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.component1 {
+  position: absolute;
+  top: 28px;
+  left: 1451px;
+  width: 247px;
+  height: 64px;
+  text-align: center;
+  color: var(--color-midnightblue);
+}
+.spiralGlass1,
+.transparent1Icon {
+  position: absolute;
+  top: 0;
+  left: 27px;
+  width: 216px;
+  height: 216px;
+  object-fit: cover;
+}
+.spiralGlass1 {
+  top: 2752px;
+  left: 1635px;
+  width: 93px;
+  height: 132.31px;
+  opacity: 0.6;
+}
+.footerChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslategray);
+  width: 1728px;
+  height: 857px;
+}
+.home {
+  top: 167px;
+  left: 888px;
+  width: 122px;
+}
+.home,
+.privacyPolicy,
+.safety {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  height: 73px;
+}
+.privacyPolicy {
+  top: 157px;
+  left: 1254px;
+  width: 242px;
+  cursor: pointer;
+}
+.safety {
+  top: 373px;
+  left: 888px;
+  width: 142px;
+}
+.driverTerms {
+  top: 363px;
+  left: 1254px;
+  width: 272px;
+  cursor: pointer;
+}
+.aboutUs,
+.customerTerms,
+.driverTerms,
+.followUs {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  height: 73px;
+}
+.followUs {
+  top: 483px;
+  left: 1254px;
+  font-size: var(--font-size-13xl);
+  width: 252px;
+  opacity: 0.6;
+}
+.aboutUs,
+.customerTerms {
+  top: 270px;
+  left: 888px;
+  width: 182px;
+}
+.customerTerms {
+  top: 260px;
+  left: 1254px;
+  width: 302px;
+  cursor: pointer;
+}
+.postcard {
+  top: 476px;
+  cursor: pointer;
+}
+.blog,
+.carrer,
+.postcard {
+  position: absolute;
+  left: 888px;
+  display: flex;
+  align-items: center;
+  width: 292px;
+  height: 73px;
+}
+.carrer {
+  top: 579px;
+  cursor: pointer;
+}
+.blog {
+  top: 682px;
+}
+.customerApp,
+.driverApp {
+  position: absolute;
+  top: 157px;
+  left: 102px;
+  opacity: 0.5;
+}
+.driverApp {
+  left: 492px;
+}
+.image1Icon,
+.image2Icon {
+  position: absolute;
+  top: 261.5px;
+  left: 65.5px;
+  width: 306px;
+  height: 90px;
+  object-fit: cover;
+}
+.image2Icon {
+  top: 262px;
+  left: 433.5px;
+}
+.facebookLogoIcon,
+.linkedinInLogoIcon {
+  position: absolute;
+  top: 602px;
+  left: 1357px;
+  width: 48px;
+  height: 48px;
+  overflow: hidden;
+}
+.linkedinInLogoIcon {
+  left: 1455px;
+}
+.image3Icon {
+  position: absolute;
+  top: 391px;
+  left: 66px;
+  width: 311px;
+  height: 96px;
+  object-fit: cover;
+}
+.instagramLogoIcon,
+.twitterLogoIcon {
+  position: absolute;
+  top: 602px;
+  left: 1191px;
+  width: 48px;
+  height: 48px;
+  overflow: hidden;
+}
+.instagramLogoIcon {
+  top: 602.55px;
+  left: 1279.65px;
+}
+.footer {
+  position: absolute;
+  top: 2609px;
+  left: 0;
+  width: 1728px;
+  height: 857px;
+  font-size: var(--font-size-9xl);
+  color: var(--color-white);
+}
+.indiasLovedBike {
+  position: absolute;
+  top: 261px;
+  left: 100px;
+  font-size: var(--font-size-66xl);
+  font-weight: 900;
+  display: inline-block;
+  width: 799px;
+  height: 209px;
+}
+.weAreTheFirstChoiceForBi {
+  margin: 0;
+}
+.weAreTheContainer {
+  position: absolute;
+  top: 535px;
+  left: 100px;
+  font-size: var(--font-size-23xl);
+  display: inline-block;
+  width: 842px;
+  height: 279px;
+}
+.frameChild,
+.frameItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0.8;
+}
+.frameChild {
+  border-radius: var(--br-13xl);
+  background-color: var(--color-darkblue);
+  width: 1688px;
+  height: 428px;
+}
+.frameItem {
+  width: 475.5px;
+  height: 456px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 926px;
+  left: 20px;
+  width: 1688px;
+  height: 428px;
+  overflow: hidden;
+}
+.ourBikeTaxis,
+.whatMakeUs {
+  font-size: var(--font-size-23xl);
+  color: var(--color-white);
+  text-align: center;
+}
+.whatMakeUs {
+  position: absolute;
+  top: 954px;
+  left: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1688px;
+  height: 132px;
+}
+.ourBikeTaxis {
+  top: 1140px;
+  left: 27px;
+  width: 1671px;
+  height: 179px;
+  opacity: 0.7;
+}
+.championsOfOur,
+.ourBikeTaxis,
+.qwikHasJust {
+  position: absolute;
+  display: inline-block;
+}
+.championsOfOur {
+  top: 1431px;
+  left: 20px;
+  font-size: var(--font-size-23xl);
+  text-align: center;
+  width: 1705px;
+  height: 71px;
+}
+.qwikHasJust {
+  top: 1548px;
+  left: 70px;
+  font-size: var(--font-size-13xl);
+  width: 1588px;
+  height: 108px;
+}
+.aboutusItem,
+.jobsQwik {
+  position: absolute;
+  left: 0;
+  width: 1728px;
+}
+.aboutusItem {
+  top: 1923px;
+  background-color: var(--color-gainsboro);
+  height: 686px;
+}
+.jobsQwik {
+  top: 1986px;
+  font-size: 58px;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  height: 171px;
+}
+.groupChild {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-12xl);
+  background-color: var(--color-midnightblue);
+  width: 302px;
+}
+.applyNow,
+.groupChild,
+.rectangleGroup {
+  position: absolute;
+  height: 98px;
+}
+.applyNow {
+  top: 0;
+  left: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 242px;
+}
+.rectangleGroup {
+  top: 2184px;
+  left: 713px;
+  width: 302px;
+  text-align: center;
+  color: var(--color-white);
+}
+.aboutusInner {
+  position: absolute;
+  top: 1686px;
+  left: -100px;
+  border-radius: 59px;
+  background-color: #a293ff;
+  width: 2004px;
+  height: 150px;
+}
+.tejashParekh {
+  position: absolute;
+  top: 0;
+  left: 20px;
+  display: inline-block;
+  width: 187px;
+  height: 30px;
+}
+.founder1Child {
+  position: absolute;
+  top: 39.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 229.04px;
+  height: 1px;
+}
+.founder {
+  position: absolute;
+  top: 49px;
+  left: 29.02px;
+  font-size: var(--font-size-lg);
+  text-align: center;
+  display: inline-block;
+  width: 169px;
+  height: 23px;
+}
+.founder1 {
+  position: relative;
+  width: 228.04px;
+  height: 72px;
+  flex-shrink: 0;
+}
+.edwardMilgram {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 236px;
+  height: 40px;
+}
+.f3Child {
+  position: absolute;
+  top: 34.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 229.04px;
+  height: 1px;
+}
+.founder2 {
+  position: absolute;
+  top: 44px;
+  left: 29.02px;
+  font-size: var(--font-size-lg);
+  text-align: center;
+  display: inline-block;
+  width: 169px;
+  height: 23px;
+}
+.f3 {
+  position: relative;
+  width: 236px;
+  height: 67px;
+  flex-shrink: 0;
+}
+.lovedeepSingh {
+  position: absolute;
+  top: 0;
+  left: 8px;
+  display: inline-block;
+  width: 201px;
+  height: 40px;
+}
+.f5Child {
+  position: absolute;
+  top: 40.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 229.04px;
+  height: 1px;
+}
+.founder3 {
+  position: absolute;
+  top: 50px;
+  left: 29.02px;
+  font-size: var(--font-size-lg);
+  text-align: center;
+  display: inline-block;
+  width: 169px;
+  height: 23px;
+}
+.f5 {
+  position: relative;
+  width: 228.04px;
+  height: 73px;
+  flex-shrink: 0;
+}
+.founder1Parent {
+  position: absolute;
+  top: 1725px;
+  left: 66px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 50px;
+}
+.dibeshParida,
+.shivamTiwari {
+  position: absolute;
+  top: 0;
+  left: 23px;
+  display: inline-block;
+  width: 181px;
+  height: 40px;
+}
+.dibeshParida {
+  left: 29px;
+  width: 188px;
+}
+.f4Child {
+  position: absolute;
+  top: 37.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 229.04px;
+  height: 1px;
+}
+.founder5 {
+  position: absolute;
+  top: 47px;
+  left: 29.02px;
+  font-size: var(--font-size-lg);
+  text-align: center;
+  display: inline-block;
+  width: 169px;
+  height: 23px;
+}
+.f4 {
+  position: relative;
+  width: 228.04px;
+  height: 70px;
+  flex-shrink: 0;
+}
+.michaelNiren {
+  position: absolute;
+  top: 0;
+  left: 29px;
+  display: inline-block;
+  width: 199px;
+  height: 40px;
+}
+.founder2Parent {
+  position: absolute;
+  top: 1724px;
+  left: 898.07px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 40px;
+}
+.b {
+  position: absolute;
+  top: 111px;
+  left: 92px;
+  font-size: var(--font-size-sm);
+  display: inline-block;
+  font-family: var(--font-hind);
+  color: var(--color-darkslateblue-200);
+  width: 127px;
+  height: 24px;
+}
+.aboutUs1,
+.home1 {
+  position: relative;
+  display: inline-block;
+  height: 42px;
+  flex-shrink: 0;
+}
+.home1 {
+  width: 95px;
+  cursor: pointer;
+}
+.aboutUs1 {
+  width: 160px;
+}
+.safety1 {
+  width: 104px;
+  cursor: pointer;
+}
+.blog1,
+.carrer1,
+.contact,
+.postpaidcard,
+.safety1 {
+  position: relative;
+  display: inline-block;
+  height: 42px;
+  flex-shrink: 0;
+}
+.postpaidcard {
+  width: 205px;
+  cursor: pointer;
+}
+.blog1,
+.carrer1,
+.contact {
+  width: 105px;
+}
+.blog1,
+.contact {
+  width: 71px;
+}
+.contact {
+  width: 120px;
+}
+.homeParent {
+  position: absolute;
+  top: 44px;
+  left: 267px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-26xl);
+  font-size: var(--font-size-11xl);
+}
+.aboutus {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 3466px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}
